@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <math.h>
 
 int main(void) {
     int i = 0, j = 0;  // Set loop
